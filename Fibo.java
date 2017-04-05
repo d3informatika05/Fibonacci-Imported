@@ -26,8 +26,8 @@ public class Fibo {
  }    
      
     public static void main(String[] args) {
-        int count=4;    
-        System.out.print(n1+" "+n2);   
+        int count=10;    
+        System.out.print(n2+" "+n1);   
         printFibonacci(count-2);
     }
     
